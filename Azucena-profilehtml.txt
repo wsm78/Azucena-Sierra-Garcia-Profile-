@@ -127,7 +127,7 @@
         <!-- Professional Introduction -->
         <section id="introduction">
             <h2>Professional Introduction</h2>
-            <p>Soil scientist and indigenous leader with a strong background in agronomy, Azucena Sierra Garcia has extensive research and work experience in forest sciences, small-scale agriculture, and environmental projects. Her commitment to advancing knowledge in sustainable land management and conservation integrates scientific expertise with a deep understanding of indigenous practices, aiming to promote sustainable agricultural practices in diverse environments.</p>
+            <p>Soil scientist and indigenous leader with a strong background in agronomy, Azucena Sierra Garcia has extensive research and work experience in forest sciences, small-scale agriculture, and environmental projects. Her commitment to advancing knowledge in sustainable land management and conservation integrates scientific expertise with a deep understanding of indigenous practices, aiming to promote sustainable agricultural practices in diverse environments. </p>
         </section>
 
         <!-- Research Focus -->
